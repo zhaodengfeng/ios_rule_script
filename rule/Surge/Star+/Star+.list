@@ -1,6 +1,12 @@
 
 # NAME: Star+
-# UPDATED: 2022-09-04 09:05:00
-# DOMAIN-SUFFIX: 8
-# TOTAL: 8
-DOMAIN-SUFFIX,
+# UPDATED: 2022-09-04 09:12:00
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+DOMAIN-SUFFIX,appconfigs.disney-plus.net
+DOMAIN-SUFFIX,assets.adobedtm.com
+DOMAIN-SUFFIX,disney.demdex.net
+DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
+DOMAIN-SUFFIX,sanalytics.disneyplus.com
+DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
+DOMAIN-SUFFIX,star.api.edge.bamgrid.com
