@@ -1,12 +1,15 @@
 
 # NAME: Star+
-# UPDATED: 2022-09-04 09:12:00
-# DOMAIN-SUFFIX: 7
-# TOTAL: 7
-DOMAIN-SUFFIX,appconfigs.disney-plus.net
-DOMAIN-SUFFIX,assets.adobedtm.com
-DOMAIN-SUFFIX,disney.demdex.net
-DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
-DOMAIN-SUFFIX,sanalytics.disneyplus.com
-DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
-DOMAIN-SUFFIX,star.api.edge.bamgrid.com
+# UPDATED: 2022-09-05 21:42:00
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
+DOMAIN-SUFFIX,starplus.com
+DOMAIN,bam-sdk-configs.bamgrid.com
+DOMAIN,disney.my.sentry.io
+DOMAIN,appconfigs.disney-plus.net
+DOMAIN,sdk.iad-03.braze.com
+DOMAIN,star.api.edge.bamgrid.com
+DOMAIN,star.content.edge.bamgrid.com
+DOMAIN,prod-ripcut-delivery.disney-plus.net
+DOMAIN,star.connections.edge.bamgrid.com
+DOMAIN-SUFFIX,starott.com
