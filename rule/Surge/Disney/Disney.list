@@ -170,6 +170,15 @@ DOMAIN-SUFFIX,thewaltdisneycompany.com
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,watchdisneyfe.com
 DOMAIN-SUFFIX,watchespn.com
+DOMAIN-SUFFIX,starplus.com
+DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
+DOMAIN-SUFFIX,appconfigs.disney-plus.net
+DOMAIN-SUFFIX,sdk.iad-03.braze.com
+DOMAIN-SUFFIX,star.api.edge.bamgrid.com
+DOMAIN-SUFFIX,star.content.edge.bamgrid.com
+DOMAIN-SUFFIX,prod-ripcut-delivery.disney-plus.net
+DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
+DOMAIN-SUFFIX,starott.com
 USER-AGENT,Disney+*
 PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
 PROCESS-NAME,com.disney.disneyplus
